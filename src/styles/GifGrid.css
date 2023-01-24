@@ -1,0 +1,18 @@
+.gifgrid-head {
+  margin: 15px 0px 15px 0px;
+  display: flex;
+  align-items: center;
+}
+
+.gifgrid-head-category {
+  margin-right: 1em;
+  font-weight: 900;
+  font-size: 15px;
+}
+
+.gifgrid-head-count {
+  color: rgb(166, 166, 166);
+  font-size: 15px;
+  font-weight: 900;
+  padding-top: auto;
+}
