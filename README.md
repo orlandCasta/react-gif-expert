@@ -10,10 +10,9 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a>
-    <img src="https://res.cloudinary.com/cozyplace/image/upload/v1674585759/Screenshot_2023-01-24_124223_nx0taf.png" alt="Logo">
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47255334/224534818-810e7a0c-8494-4bc8-b42f-17e2605575f1.gif" alt="animated" />
+</p>
 
   <h3 align="center">Gif Expert</h3>
   https://orlandcasta.github.io/react-gif-expert/
