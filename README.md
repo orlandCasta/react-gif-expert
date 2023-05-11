@@ -1,19 +1,10 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47255334/224534818-810e7a0c-8494-4bc8-b42f-17e2605575f1.gif" alt="animated" />
 </p>
 
+<div align="center">
   <h3 align="center">Gif Expert</h3>
   https://orlandcasta.github.io/react-gif-expert/
 </div>
